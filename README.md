@@ -1,4 +1,4 @@
-Barcode Scanner (Multi-Language)
+**Barcode Scanner (Multi-Language)**
 
 Scans a barcode with the device camera and looks up real product info from the free OpenFoodFacts API a crowdsourced, open database covering food and grocery products. Non-food barcodes (electronics, shipping labels, books, etc.) will correctly show "not found," since they're outside database coverage. Keeps a local scan history and lets you switch the entire UI between English, French, and Telugu.
 
